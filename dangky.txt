@@ -1,1 +1,3 @@
 Hoan thanh tinh nang dang ky
+
+Fixbug dang ky may B
