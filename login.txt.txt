@@ -1,1 +1,3 @@
 May A da hoan thanh tinh nang Login
+
+May B lam tinh nang dang ky
